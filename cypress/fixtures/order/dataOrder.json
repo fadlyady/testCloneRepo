@@ -1,0 +1,21 @@
+{
+    "label_more_filter": "More Filter",
+    "label_pengiriman": "Label Pengiriman",
+    "search_awb": "001255021825",
+    "search_start_date": "2022-05-10",
+    "search_end_date": "2022-05-10",
+    "search_awb_notfound": "0012550221340",
+    "search_order_date": "10/05/2022 11:19",
+    "search_receiver_name": "Penerima 1",
+    "search_address": "Bandung Kidul",
+    "search_branch": "Cabang Pusat",
+    "search_prices": "Rp20,000",
+    "search_ongkir": "Rp12,000",
+    "search_delivery_status": "CONFIRMED",
+    "search_dropship_status": "Non - Dropship",
+    "search_assurance": "0",
+    "search_no_order": "CLSI-1652156366172",
+    "search_cod_status": "Non - COD",
+    "alert_awb_notfound": "No Data",
+    "total_harga_barang": "20000"
+}

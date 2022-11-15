@@ -1,0 +1,10 @@
+cypress.env.json
+node_modules
+/cypress/integration/1-getting-started
+/cypress/integration/2-advanced-examples
+/cypress/screenshots
+/cypress/videos
+/cypress/reports
+/cypress/downloads
+
+

@@ -1,0 +1,14 @@
+{
+    "nama_pengirim": "Cabang Pusat",
+    "nomor_telepon_pengirim": "812114455",
+    "nama_departemen": "owner",
+    "total_harga_barang": "20000",
+    "nama_barang": "Gelas Plastik",
+    "jumlah_barang": "1",
+    "harga_cod": "21000",
+    "harga_cod_invalid": "11000",
+    "note": "note pengiriman",
+    "notification_success_menambah_pengiriman": "Data Pengiriman 1 berhasil di ubah",
+    "notification_success_create_order": "Success Create Order",
+    "notification_fail_prices": "Total nilai transaksi COD yang dapat diproses adalah minimum Rp. 13.500 dan maksimum Rp15.000.000"
+}
